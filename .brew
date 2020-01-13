@@ -1,3 +1,6 @@
+brew cask install iterm2
+brew tap homebrew/cask-fonts
+brew cask install font-hack-nerd-font
 brew install neovim
 brew install go			
 brew install awscli
@@ -12,4 +15,3 @@ brew install nmap
 brew cask install google-chrome
 brew cask install google-cloud-sdk
 brew cask install aws-vault
-brew cask install pdk
