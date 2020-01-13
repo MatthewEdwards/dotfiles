@@ -1,0 +1,15 @@
+brew install neovim
+brew install go			
+brew install awscli
+brew install vault
+brew install irssi
+brew install jq
+brew install kubernetes-cli
+brew install tfenv
+brew install nmap    
+
+
+brew cask install google-chrome
+brew cask install google-cloud-sdk
+brew cask install aws-vault
+brew cask install pdk
