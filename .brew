@@ -10,7 +10,8 @@ brew install jq
 brew install kubernetes-cli
 brew install tfenv
 brew install nmap    
-
+brew install lsd
+brew install bat
 
 brew cask install google-chrome
 brew cask install google-cloud-sdk
